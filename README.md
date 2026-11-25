@@ -1,8 +1,8 @@
 # Olá, eu sou o Marcelo Cobianchi 👋
 
-**Professor de Física · Mestrando em Ensino de Física · Fundador da Cobianchi X Tech**
+**Professor de Física · Mestrando em Ensino de Física · Fundador da Agro X Tech e da Cobianchi X Tech**
 
-Sou professor de Física da rede estadual do Paraná (SEED/PR) e faço mestrado no **MNPEF (Polo 20 / UEM)**. Também sou técnico em eletromecânica e estudo engenharia elétrica. Na **Cobianchi X Tech** desenvolvo simuladores didáticos e ferramentas que ligam física, computação e criptografia.
+Sou professor de Física da rede estadual do Paraná (SEED/PR) e faço mestrado no **MNPEF (Polo 20 / UEM)**. Também sou técnico em eletromecânica e estudo engenharia elétrica. Sou fundador da **Agro X Tech** e da **Cobianchi X Tech**; na Cobianchi X Tech desenvolvo simuladores didáticos e ferramentas que ligam física, computação e criptografia.
 
 📍 Sarandi / Maringá – PR, Brasil
 
@@ -47,4 +47,4 @@ Sou professor de Física da rede estadual do Paraná (SEED/PR) e faço mestrado 
 
 ---
 
-<sub>Prof. Cobianchi · Cobianchi X Tech</sub>
+<sub>Prof. Cobianchi · Fundador da Agro X Tech e da Cobianchi X Tech</sub>
