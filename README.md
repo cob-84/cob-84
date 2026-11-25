@@ -29,7 +29,7 @@ O objetivo é dar rastreabilidade e liquidez à produção de energia renovável
 ### ⚙️ Cobianchi X Tech · fundador
 Simuladores didáticos e ferramentas que ligam física, computação e criptografia.
 
-**RHEA**, em desenvolvimento: laboratório de estudo de modelos quantitativos aplicados ao mercado financeiro, como o valor justo de Graham, o ajuste bayesiano, a simulação de Monte Carlo e o expoente de Hurst. É usado para pesquisa e ensino, sem fins de recomendação.
+**RHEA**, em desenvolvimento: ecossistema conceitual de pagamento, investimento e sensoriamento para o agronegócio. Inclui o **SIGMA**, laboratório de estudo de modelos quantitativos (Graham, Bayes, Monte Carlo e Hurst), usado para pesquisa e ensino, sem fins de recomendação.
 
 ---
 
@@ -74,7 +74,7 @@ Simuladores didáticos e ferramentas que ligam física, computação e criptogra
 
 ## ⚖️ Aviso legal
 
-- **RHEA** é uma ferramenta **educacional e de pesquisa**. Nada do que ela produz constitui recomendação, análise ou consultoria de investimento nos termos das Resoluções CVM 19/2021 e 20/2021. Os exemplos com ativos servem apenas para ilustrar os métodos. Decisões de investimento são de responsabilidade de cada pessoa. Para recomendações, procure um profissional credenciado pela CVM.
+- **RHEA / SIGMA** são ferramentas **educacionais e de pesquisa**. Nada do que ela produz constitui recomendação, análise ou consultoria de investimento nos termos das Resoluções CVM 19/2021 e 20/2021. Os exemplos com ativos servem apenas para ilustrar os métodos. Decisões de investimento são de responsabilidade de cada pessoa. Para recomendações, procure um profissional credenciado pela CVM.
 - **HELIOS / VERDIS** são projetos em desenvolvimento e **não constituem oferta de investimento, de valor mobiliário ou promessa de rentabilidade**. Os certificados representam registros de produção física (energia e biodiesel).
 - Os códigos publicados aqui têm finalidade didática e são fornecidos "no estado em que se encontram", sem garantias.
 
